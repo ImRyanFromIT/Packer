@@ -1,0 +1,2 @@
+Problem - 
+In the real world theres probably a lot of commands you want to pass to your image. That can get hard to read and understand, therefore we'll use an inline script reference. 
